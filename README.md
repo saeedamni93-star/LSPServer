@@ -1,4 +1,4 @@
-# LSPServer
+# LSPServerprsian
 
 LSPServer is a package that implements the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) for Wolfram Language and allows a Wolfram Language kernel to run as an LSP server.
 
